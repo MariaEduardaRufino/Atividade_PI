@@ -1,0 +1,37 @@
+.div_1 {
+
+    background-color: rgb(253, 158, 174); 
+    width: 600px;
+    height: 600px;
+    
+}
+
+.div_2 {
+
+    background-color: rgb(210, 145, 229); 
+    width: 300px;
+    height: 300px;
+    
+}
+
+.p_1{
+
+color: white; font-size: 50px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.div_3 {
+
+    background-color: rgb(233, 179, 128); 
+    width: 200px;
+    height: 200px;
+
+}
+
+.div_4{
+
+    background-color: rgb(146, 207, 241); 
+    width: 150px;
+    height: 150px;
+
+}
